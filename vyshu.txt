@@ -1,0 +1,23 @@
+pwd=print current working directory
+cd=change directory(primary command)
+ls
+ls -l
+.=display hidden folders 
+touch file1.txtfile2.txtfile3.txt =create empty files
+touch hidden file.txt
+ls -la=all hidden files 
+ls *=list all the files and folders
+cd ..=take you back one folder
+ls -R=list all files and folders with subdirectories
+ls -ls=shows all directories
+ls -lh=human readable format
+ls -lhr=reverse
+ls -lt=time of previously modified files
+cat=used to read the files
+chmod=used to remove the permission (or) modify the permission
+chmod a-r =remove all permissions
+chmod a+r =add all permissions
+ls -li=inode numbers
+vi=modify the file
+cp=copy the file 
+rm -r=recursive deletion 
